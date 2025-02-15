@@ -1,0 +1,7 @@
+flask
+flask-cors
+pypdf2
+pdfplumber
+spacy
+sentence-transformers
+faiss-cpu
